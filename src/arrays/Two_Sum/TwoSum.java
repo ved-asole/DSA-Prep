@@ -9,8 +9,7 @@ class TwoSum {
                 if(j!=i){
                     int num2=nums[j];
                     if((num1+num2)==target){
-                        int [] index={i,j};
-                        return index;
+                        return new int[]{i,j};
                     }
                 }
             }
