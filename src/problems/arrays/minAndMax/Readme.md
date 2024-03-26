@@ -4,7 +4,7 @@
 Given an array A of size N of integers. Your task is to find the minimum and maximum elements in the array.
 
 
-Example 1:
+### Example 1:
 
     Input:
         N = 6
@@ -14,7 +14,7 @@ Example 1:
 
     Explanation: minimum and maximum elements of array are 1 and 10000.
 
-Example 2:
+### Example 2:
 
     Input:
         N = 5
@@ -25,15 +25,17 @@ Example 2:
     Explanation: minimum and maximum element of array are 1 and 56789.
 
 
-Constraints:
+### Constraints:
 
 -    `1 <= N <= 105`
 -    `1 <= Ai <=1012`
      
 ## Your Task:
-
 You don't need to read input or print anything. Your task is to complete the function getMinMax() which takes the array A[] and its size N as inputs and returns the minimum and maximum element of the array.
 
 ### Expected Time Complexity: O(N)
 
 ### Expected Auxiliary Space: O(1).
+
+### Problem URL : 
+https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
