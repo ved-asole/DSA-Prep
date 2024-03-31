@@ -1,4 +1,4 @@
-package DS_Implementation.array;
+package DSImplementation.array.dynamicArray;
 
 public class Main {
 
