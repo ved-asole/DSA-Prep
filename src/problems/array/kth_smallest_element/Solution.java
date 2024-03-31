@@ -1,4 +1,4 @@
-package problems.arrays.kth_smallest_element;
+package problems.array.kth_smallest_element;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package problems.arrays.reverseArray;
+package problems.array.reverseArray;
 
 import java.io.BufferedReader;
 import java.io.IOException;

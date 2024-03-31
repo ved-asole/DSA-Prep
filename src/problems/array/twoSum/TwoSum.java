@@ -1,4 +1,4 @@
-package problems.arrays.twoSum;
+package problems.array.twoSum;
 
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
@@ -14,7 +14,7 @@ class TwoSum {
                 }
             }
         }
-        return null;
+        return new int[0];
     }
 
     public static void main(String[] args) {

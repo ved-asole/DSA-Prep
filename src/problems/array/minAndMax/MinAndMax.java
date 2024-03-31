@@ -1,4 +1,4 @@
-package problems.arrays.minAndMax;
+package problems.array.minAndMax;
 
 import java.lang.*;
 import java.io.*;

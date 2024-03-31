@@ -1,4 +1,4 @@
-package problems.arrays.minAndMax;
+package problems.array.minAndMax;
 
 public class Pair
 {
