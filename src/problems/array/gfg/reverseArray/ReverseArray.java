@@ -1,4 +1,4 @@
-package problems.array.reverseArray;
+package problems.array.gfg.reverseArray;
 
 import java.io.BufferedReader;
 import java.io.IOException;

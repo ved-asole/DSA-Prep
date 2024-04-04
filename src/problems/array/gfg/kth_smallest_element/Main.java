@@ -1,4 +1,4 @@
-package problems.array.kth_smallest_element;
+package problems.array.gfg.kth_smallest_element;
 
 import java.io.PrintWriter;
 import java.util.Scanner;

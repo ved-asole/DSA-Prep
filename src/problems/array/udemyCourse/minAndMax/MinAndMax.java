@@ -1,4 +1,4 @@
-package problems.array.minAndMax;
+package problems.array.udemyCourse.minAndMax;
 
 import java.lang.*;
 import java.io.*;

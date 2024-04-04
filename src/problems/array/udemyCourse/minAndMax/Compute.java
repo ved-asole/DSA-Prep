@@ -1,4 +1,4 @@
-package problems.array.minAndMax;
+package problems.array.udemyCourse.minAndMax;
 
 public class Compute
 {
