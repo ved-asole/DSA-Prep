@@ -1,4 +1,4 @@
-package DSImplementation.array.dynamicArray;
+package DSImplementation.array.DynamicArray;
 
 import java.util.Arrays;
 
