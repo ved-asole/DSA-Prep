@@ -104,7 +104,7 @@ public class BinaryHeap {
     // Time Complexity = O(logN) and Space Complexity = O(logN)
     public void heapifyTopToBottom(int index, String heapType) {
         int left = index*2;
-        int right = index*2 + 1;
+        int right = (index*2) + 1;
         int swapChild = 0;
         if(sizeOfTree < left) return;
 
@@ -142,7 +142,7 @@ public class BinaryHeap {
                 } else {
                     swapChild = right;
                 }
-                if(arr[index] < arr[swapChild]) {
+                if(arr[index] > arr[swapChild]) {
                     int temp = arr[index];
                     arr[index] = arr[swapChild];
                     arr[swapChild] = temp;
