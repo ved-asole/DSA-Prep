@@ -9,7 +9,6 @@ public class SinglyLinkedList {
     // Create a singly linked list
     // Time Complexity: O(1) and Space Complexity: O(1)
     public Node createSinglyLinkedList(int nodeValue) {
-        head = new Node();
         Node node = new Node();
         node.next = null;
         node.value = nodeValue;
