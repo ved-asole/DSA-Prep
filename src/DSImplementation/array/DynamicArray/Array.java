@@ -17,6 +17,7 @@ public class Array{
 
     public void insert(int value) {
         if (this.size == this.length) {
+            //Increasing size by 2 times of current capacity if the array is full
             int newSize = this.length * 2;
             int[] newArray = new int[newSize];
             if (this.length >= 0)
