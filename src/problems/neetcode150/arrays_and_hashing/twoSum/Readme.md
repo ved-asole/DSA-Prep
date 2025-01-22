@@ -40,3 +40,9 @@ You can return the answer in any order.
 
 ### Recommended Time & Space Complexity:
 You should aim for a solution with `O(n)` time and `O(n)` space, where n is the size of the input array.
+
+### Solution Performance:
+
+#### [Check here](https://leetcode.com/problems/two-sum/submissions/1516260925)
+
+![Performance](performance.png)
