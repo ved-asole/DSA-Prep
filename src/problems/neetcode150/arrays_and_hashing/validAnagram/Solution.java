@@ -1,7 +1,5 @@
 package problems.neetcode150.arrays_and_hashing.validAnagram;
 
-import java.util.HashSet;
-
 public class Solution {
 
     public static boolean isAnagram(String s, String t) {
